@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Bitter-Bold";
+    src: url(fonts/Bitter-Bold.eot);
+    src: url("fonts/Bitter-Bold.eot%3F") format("embedded-opentype"), url(fonts/Bitter-Bold.woff) format("woff"), url(fonts/Bitter-Bold.ttf) format("truetype"), url("fonts/Bitter-Bold.svg") format("svg"), url(fonts/Bitter-Bold.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Bitter-Regular";
+    src: url(fonts/Bitter-Regular.eot);
+    src: url("fonts/Bitter-Regular.eot%3F") format("embedded-opentype"), url(fonts/Bitter-Regular.woff) format("woff"), url(fonts/Bitter-Regular.ttf) format("truetype"), url("fonts/Bitter-Regular.svg") format("svg"), url(fonts/Bitter-Regular.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ProximaNovaBold";
+    src: url(fonts/ProximaNovaBold.eot);
+    src: url("fonts/ProximaNovaBold.eot%3F") format("embedded-opentype"), url(fonts/ProximaNovaBold.woff) format("woff"), url(fonts/ProximaNovaBold.ttf) format("truetype"), url("fonts/ProximaNovaBold.svg") format("svg"), url(fonts/ProximaNovaBold.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ProximaNovaRegular";
+    src: url(fonts/ProximaNovaRegular.eot);
+    src: url("fonts/ProximaNovaRegular.eot%3F") format("embedded-opentype"), url(fonts/ProximaNovaRegular.woff) format("woff"), url(fonts/ProximaNovaRegular.ttf) format("truetype"), url("fonts/ProximaNovaRegular.svg") format("svg"), url(fonts/ProximaNovaRegular.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ProximaNovaLight";
+    src: url(fonts/ProximaNovaLight.eot);
+    src: url("fonts/ProximaNovaLight.eot%3F") format("embedded-opentype"), url(fonts/ProximaNovaLight.woff) format("woff"), url(fonts/ProximaNovaLight.ttf) format("truetype"), url("fonts/ProximaNovaLight.svg") format("svg"), url(fonts/ProximaNovaLight.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
